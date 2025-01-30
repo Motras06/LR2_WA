@@ -1,0 +1,32 @@
+.hat {
+    background-color: green;
+}
+
+.end {
+    background-color: rgb(64, 120, 169);
+}
+
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.endIt{
+    background-color: rgb(64, 120, 169);
+    text-align: end;
+}
+
+div {
+    position: fixed;
+    background-color: black;
+    margin-right: 1155px;
+}
+
+.data {
+    background-color: white;
+    text-align: center;
+    vertical-align: baseline;
+}
+
+.data:hover{
+    background-color: aqua;
+}

@@ -1,0 +1,25 @@
+body {
+    background-color: antiquewhite;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+    margin-left: 15%;
+    margin-block-end: 15%;
+}
+
+li {
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+input{
+    background-color: aquamarine;
+    margin-left: 5px;
+}
+
+select {
+    background-color: aquamarine;
+}
+
+textarea{
+    background-color: rgba(127, 255, 212, 0.686);
+}
